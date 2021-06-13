@@ -1,18 +1,15 @@
-# Emoji Searcher App - React Introduction
+<h2>How to use?</h2>
+<h4>1. Download or clone this repo.</br></h4>
+<h4>2. Install dependencies.</br></h4>
 
-## Happy coding!
+```
+npm install
+// or
+yarn install
+```
 
-##### Apa yang akan kamu pelajari dari app ini?
+<h4>3. Run project.</br></h4>
 
-- Cara melakukan remote data fetching di React dengan axios
-- Cara menyesuaikan component yang di-render sesuai dengan proses fetching
-- React state management (dengan useState)
-- React life cycle (dengan useEffect)
-- Bagaimana cara mengupdate state di React
-- Event handling di React (onClick dan onChange)
-- Membuat aplikasi dengan banyak Components
-- Memberikan type untuk props dengan prop-types
-- CSS Module dan dynamic className dengan classnames
-- Melakukan sentuhan animasi dengan React dan CSS untuk UX
-
-&copy; wegodev | version 1.1.0
+```
+npm start
+```
